@@ -16,7 +16,7 @@
 
 ## Video Output
 
-<img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/running(ouput)%20(3).gif" width="555"/>
+<img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/running(ouput)%20(3).gif" width="425"/>
 
 ## Image Outputs
 
