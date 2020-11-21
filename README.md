@@ -14,9 +14,9 @@ Front-end design           |  Output after uploading
 
 ## Image Outputs
 
-<img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/laughing.png" width="425"/>
+<img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/laughing.png" height = '500'/>
 
-<img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/emotion-activity.png" width="425"/>
+<img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/emotion-activity.png" height="500"/>
 
 # EXECUTION
 
