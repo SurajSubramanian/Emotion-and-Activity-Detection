@@ -4,15 +4,9 @@
 
 ## Front-end 
 
-<figure>
-    <img src='https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend1.png' alt='missing' width = '425'/>
-    <figcaption>Front-end design</figcaption>
-</figure>
-<figure>
-    <img src='https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend2.png' alt='missing' width = '425'/>
-    <figcaption>Outputs after uploading image</figcaption>
-</figure>
-
+Front-end design           |  Output after uploading
+:-------------------------:|:-------------------------:
+![](https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend1.png)  |  ![](https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend2.png)
 
 ## Video Output
 
