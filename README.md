@@ -16,9 +16,7 @@
 
 ## Video Output
 
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/10fwQ4HK_emfmPkviYwL8QLXVSO2cQUiH/preview" type="video/mp4">
-</video>
+<img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/running(ouput)%20(3).gif" width="250" height="250"/>
 
 ## Image Outputs
 
