@@ -1,0 +1,50 @@
+face-recognition-models==0.3.0
+fastai==2.0.16
+Flask==1.1.2
+Flask-Cors==3.0.9
+Flask-RESTful==0.3.8
+future==0.18.2
+gevent @ file:///opt/concourse/worker/volumes/live/78aec834-bbf0-47a7-799f-96dd2cf589ab/volume/gevent_1593009579767/work
+gitdb==4.0.5
+GitPython==3.1.7
+glob2==0.7
+gmpy2==2.0.8
+h5py==2.10.0
+imageai==2.1.5
+imagecorruptions==1.1.0
+imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
+imageio-ffmpeg==0.4.2
+imagesize==1.2.0
+imgaug==0.4.0
+imutils==0.5.3
+intervaltree @ file:///tmp/build/80754af9/intervaltree_1594361675072/work
+Jinja2==2.11.2
+json5==0.9.5
+jsonschema @ file:///opt/concourse/worker/volumes/live/143dedb7-a810-4064-6e47-436d4dbcc943/volume/jsonschema_1594363611216/work
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+matplotlib @ file:///opt/concourse/worker/volumes/live/59859a4b-794b-4c9f-51fd-a0ac1d1ab595/volume/matplotlib-base_1592846058943/work
+numpy==1.18.5
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
+opencv-contrib-python==4.4.0.42
+opencv-python==4.4.0.42
+opencv-python-headless==4.4.0.42
+pandas==1.1.1
+pandocfilters==1.4.2
+path==13.1.0
+path.py==12.5.0
+Pillow @ file:///opt/concourse/worker/volumes/live/be1e8a56-c4be-4ffe-4fa7-5a0e9c460b1a/volume/pillow_1594307312933/work
+retinaface-pytorch==0.0.6
+scikit-image==0.16.2
+scikit-learn @ file:///opt/concourse/worker/volumes/live/47a3ec7c-70dc-43c0-7317-def24a8afaf5/volume/scikit-learn_1592503037057/work
+scipy==1.4.1
+tensorboard==2.3.0
+tensorboard-plugin-wit==1.7.0
+tensorboardX==2.1
+tensorflow==2.3.0
+tensorflow-estimator==2.3.0
+torch==1.6.0
+torchvision==0.7.0
+tqdm @ file:///tmp/build/80754af9/tqdm_1593446365756/work
+urllib3==1.25.9
+Werkzeug==1.0.1
