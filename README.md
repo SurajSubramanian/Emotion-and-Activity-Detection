@@ -16,7 +16,7 @@
 ## Video Output
 
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/10fwQ4HK_emfmPkviYwL8QLXVSO2cQUiH/view?usp=sharing" type="video/mp4">
+  <source src="https://drive.google.com/file/d/10fwQ4HK_emfmPkviYwL8QLXVSO2cQUiH/preview" type="video/mp4">
 </video>
 
 ## Image Outputs
