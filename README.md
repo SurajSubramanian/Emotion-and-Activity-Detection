@@ -1,5 +1,25 @@
 # Emotion and Activity Detection from still images and videos
 
+# RESULT
+
+## Front-end 
+
+![alt text](https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend1.png)
+
+![alt text](https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend2.png)
+
+## Video Output
+
+<img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/running(ouput).mp4/maxresdefault.jpg" width="50%">](https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/running(ouput).mp4)
+
+## Image Outputs
+
+![alt text](https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/laughing.png)
+
+![alt text](https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/emotion-activity.png)
+
+# EXECUTION
+
 Both the facial expression recognition and action-detetion weights have to be downloaded at first. To do this, `cd` into the respective directories and execute the `download_weights.sh` file using : 
 
 ```
