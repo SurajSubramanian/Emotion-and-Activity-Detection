@@ -5,11 +5,12 @@
 ## Front-end 
 
 <figure>
-   <img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend1.png" width="425"/>
-   <figcaption>Front-end designed using ReactJS</figcaption>
-  
-   <img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend2.png" width="425"/>
-   <figcaption>Output</figcaption>
+    <img src='https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend1.png' alt='missing' />
+    <figcaption>Front-end design</figcaption>
+</figure>
+<figure>
+    <img src='https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend2.png' alt='missing' />
+    <figcaption>Outputs after uploading image</figcaption>
 </figure>
 
 
