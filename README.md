@@ -4,19 +4,26 @@
 
 ## Front-end 
 
-<img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend1.png" width="425"/> <img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend2.png" width="425"/> 
+<figure>
+   <img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend1.png" width="425"/>
+   <figcaption>Front-end designed using ReactJS</figcaption>
+  
+   <img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/frontend2.png" width="425"/>
+   <figcaption>Output</figcaption>
+</figure>
+
 
 ## Video Output
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/running(ouput).mp4" type="video/mp4">
+  <source src="https://drive.google.com/file/d/10fwQ4HK_emfmPkviYwL8QLXVSO2cQUiH/view?usp=sharing" type="video/mp4">
 </video>
 
 ## Image Outputs
 
 <img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/laughing.png" width="425"/>
 
-<img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/emotiomn-activity.png" width="425"/>
+<img src="https://github.com/SurajSubramanian/Emotion-and-Activity-Detection/blob/main/images/emotion-activity.png" width="425"/>
 
 # EXECUTION
 
