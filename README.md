@@ -12,9 +12,9 @@ Install requirements by running `pip install requirements.txt`
 
 ## To upload an image and run the code, use :
 ```
-python main.py image_name/video_name
+python runtim.py image_name/video_name
 (or)
-python main.py
+python runtime.py
 ```
 
 In the second case, you'll be asked to enter the name of the image/video.
@@ -24,3 +24,21 @@ In the second case, you'll be asked to enter the name of the image/video.
 ```
 python realime.py
 ```
+
+## To run the web-based application :
+
+Inside the frontend directory, run :
+```
+npm install
+```
+to install all the node modules.
+
+To start the front-end React application, run :
+```
+npm start
+```
+inside the frontend directory and 
+```
+python app.py
+```
+to run the flask application.
