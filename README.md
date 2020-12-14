@@ -62,3 +62,10 @@ inside the frontend directory and
 python app.py
 ```
 to run the flask application.
+
+## Documents 
+
+- [PPT](https://drive.google.com/file/d/1ap4APi5Rltw6r3P43uV2i3X0_wsiAVIM/view?usp=sharing)
+
+- [Report](https://drive.google.com/file/d/1fIhVIMlioTkBV83IVXbQSOqFQbIuL6ph/view?usp=sharing)
+
